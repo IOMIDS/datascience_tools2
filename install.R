@@ -15,3 +15,9 @@ install.packages('randomForest')
 install.packages('caret')
 install.packages('pROC')
 install.packages('partykit')
+
+# Text Mining
+install.packages('tidytext')
+install.packages('stopwords')
+install.packages('tidyRSS')
+install.packages('rvest')
